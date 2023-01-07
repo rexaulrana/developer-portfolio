@@ -23,7 +23,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding : 50px 200px;
 }
 
 .cont {
@@ -97,6 +97,13 @@ li {
     color: white;
     margin-top: 20px;
 
+}
+.cont{
+    width: 200px;
+    height: 64px;
+    background-color: #FD6E0A;
+    color: white;
+    margin-top: 20px;
 }
 
 main {
